@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrl: './hiden-password.component.css'
 })
 export class HidenPasswordComponent implements OnInit{
-  APIKEY = 'SPERIAMO RIESCO A NASCONDERLA :';  // Dichiarato come proprietà della classe
+  APYKEY = 'SPERIAMO RIESCO A NASCONDERLA :';  // Dichiarato come proprietà della classe
 
   constructor() {
     // Il costruttore può essere vuoto o contenere logica di inizializzazione
